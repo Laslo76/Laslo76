@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Laslo76
 
-<img alt="Static Badge" src="https://img.shields.io/badge/py-python-green?logo=python&labelColor=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/py-python-blue?logo=python&labelColor=black">
 
 
 <!---
