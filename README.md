@@ -4,6 +4,7 @@
 
 <img alt="Kotlin Badge" src="https://img.shields.io/badge/kt-Kotlin-0095D5?logo=kotlin&logoColor=white&labelColor=000000">
 <img alt="Android Badge" src="https://img.shields.io/badge/android-Android-3DDC39?logo=android&logoColor=white&labelColor=000000">
+<img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack%20Compose-4169E1?style=flat&logo=google&logoColor=white">
 
 <!---
 Laslo76/Laslo76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
